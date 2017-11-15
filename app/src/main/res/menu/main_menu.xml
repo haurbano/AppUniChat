@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/change_ip_menu"
+        android:title="Cambiar IP">
+    </item>
+    <item
+        android:id="@+id/info_ip_menu"
+        android:title="Informacion">
+    </item>
+</menu>
